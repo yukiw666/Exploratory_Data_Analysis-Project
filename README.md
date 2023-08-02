@@ -1,3 +1,4 @@
 # Exploratory_Data_Analysis-Project
-Describtion:
+Description:
 Use external Python packages to retrieve and analyze valuable information from a supermarket retail chain dataset.
+# 
